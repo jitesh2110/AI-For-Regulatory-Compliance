@@ -1,0 +1,11 @@
+{
+    "summary": "** The RBI is updating security rules for companies handling digital payments and online mandates. They're asking for stronger data protection measures to fight cyber threats, mainly by upgrading encryption and shortening idle time limits.\n\n**",
+    "impact": "** You might see systems requiring more frequent logouts due to shorter session times. Failing to upgrade the required encryption by the deadline will lead to system blocks on certain payment functions.\n\n**",
+    "benefits": "** These upgrades significantly improve the safety of customer payment information and help maintain trust in digital transactions.\n\n**",
+    "flash_alerts": [
+        "",
+        "Upgrade your platform's data encryption to AES-256 for customer payment data storage by June 30, 2026.",
+        "Ensure any idle payment session times out and logs users out automatically after exactly 3 minutes of inactivity."
+    ],
+    "filename": "RBI_Notification_latest_notice.pdf"
+}
