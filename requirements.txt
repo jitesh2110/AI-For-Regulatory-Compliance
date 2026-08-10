@@ -1,0 +1,11 @@
+ollama
+chromadb
+PyPDF2
+sentence-transformers
+langchain-text-splitters
+beautifulsoup4
+requests
+curl-cffi
+playwright
+Flask
+Flask-CORS
